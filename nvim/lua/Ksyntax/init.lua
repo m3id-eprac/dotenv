@@ -1,0 +1,1 @@
+require('Ksyntax.nvim-treesitter')
